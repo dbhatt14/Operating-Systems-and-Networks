@@ -1,5 +1,5 @@
 # Operating-Systems-and-Networks
-Projects for the course
+This repository contains projects built for the SER 334 - Operating Systems and Networks Course
 
 ## DESCRIPTION
 
